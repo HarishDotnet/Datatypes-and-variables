@@ -1,0 +1,14 @@
+C:\Users\harish.muthu\Desktop\c# Traning\C# topicwice Practice\Datatypes and variables and Access Specifier\obj\Debug\net8.0\Datatypes and variables and Access Specifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harish.muthu\Desktop\c# Traning\C# topicwice Practice\Datatypes and variables and Access Specifier\obj\Debug\net8.0\Datatypes and variables and Access Specifier.AssemblyInfoInputs.cache
+C:\Users\harish.muthu\Desktop\c# Traning\C# topicwice Practice\Datatypes and variables and Access Specifier\obj\Debug\net8.0\Datatypes and variables and Access Specifier.AssemblyInfo.cs
+C:\Users\harish.muthu\Desktop\c# Traning\C# topicwice Practice\Datatypes and variables and Access Specifier\obj\Debug\net8.0\Datatypes and variables and Access Specifier.csproj.CoreCompileInputs.cache
+C:\Users\harish.muthu\Desktop\c# Traning\C# topicwice Practice\Datatypes and variables and Access Specifier\bin\Debug\net8.0\Datatypes and variables and Access Specifier.exe
+C:\Users\harish.muthu\Desktop\c# Traning\C# topicwice Practice\Datatypes and variables and Access Specifier\bin\Debug\net8.0\Datatypes and variables and Access Specifier.deps.json
+C:\Users\harish.muthu\Desktop\c# Traning\C# topicwice Practice\Datatypes and variables and Access Specifier\bin\Debug\net8.0\Datatypes and variables and Access Specifier.runtimeconfig.json
+C:\Users\harish.muthu\Desktop\c# Traning\C# topicwice Practice\Datatypes and variables and Access Specifier\bin\Debug\net8.0\Datatypes and variables and Access Specifier.dll
+C:\Users\harish.muthu\Desktop\c# Traning\C# topicwice Practice\Datatypes and variables and Access Specifier\bin\Debug\net8.0\Datatypes and variables and Access Specifier.pdb
+C:\Users\harish.muthu\Desktop\c# Traning\C# topicwice Practice\Datatypes and variables and Access Specifier\obj\Debug\net8.0\Datatypes and variables and Access Specifier.dll
+C:\Users\harish.muthu\Desktop\c# Traning\C# topicwice Practice\Datatypes and variables and Access Specifier\obj\Debug\net8.0\refint\Datatypes and variables and Access Specifier.dll
+C:\Users\harish.muthu\Desktop\c# Traning\C# topicwice Practice\Datatypes and variables and Access Specifier\obj\Debug\net8.0\Datatypes and variables and Access Specifier.pdb
+C:\Users\harish.muthu\Desktop\c# Traning\C# topicwice Practice\Datatypes and variables and Access Specifier\obj\Debug\net8.0\Datatypes and variables and Access Specifier.genruntimeconfig.cache
+C:\Users\harish.muthu\Desktop\c# Traning\C# topicwice Practice\Datatypes and variables and Access Specifier\obj\Debug\net8.0\ref\Datatypes and variables and Access Specifier.dll

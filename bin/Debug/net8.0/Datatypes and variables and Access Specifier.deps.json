@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Datatypes and variables and Access Specifier/1.0.0": {
+        "runtime": {
+          "Datatypes and variables and Access Specifier.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Datatypes and variables and Access Specifier/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
